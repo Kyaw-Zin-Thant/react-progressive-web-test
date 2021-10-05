@@ -52,7 +52,7 @@
     "exenv": "^1.2.2",
     "fastify": "^1.13.3",
     "fastify-compress": "^0.7.1",
-    "fastify-static": "^1.0.0",
+    "fastify-static": "^4.2.4",
     "history": "^4.7.2",
     "memory-cache": "^0.2.0",
     "node-fetch": "^2.3.0",
